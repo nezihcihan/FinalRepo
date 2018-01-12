@@ -82,7 +82,7 @@ eg. lombok, jopt-simple, open csv, retrofit.
 - understanding Object Relational Mapping
   - with using library: JPA
 - connection between:
-  - tables and classes
+  - [tables and classes](https://github.com/greenfox-academy/nezihcihan/blob/master/week08/day-2/todo-database/src/main/java/com/greenfox/nezih/tododatabase/module/Todo.java)
   - records and objects
   - columns and fields
 
