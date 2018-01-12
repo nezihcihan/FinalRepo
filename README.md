@@ -42,6 +42,11 @@ The student, on their own, is able to:
 - understanding the difference between interfaces and abstract classes
 - [understand when to use interface and when to use super class](https://stackoverflow.com/questions/4090834/when-do-i-use-super)
 
+## Queries
+- usage of language integrated quaries e.g. LINQ/StreamApi
+- understanding the syntax
+- able to write simple custom quaries
+
 ## Build tool - Gradle
 
 - use gradle tasks from terminal (gradlew)
@@ -52,7 +57,7 @@ The student, on their own, is able to:
 ## 3rd party libraries
 
 - [able to add and use libraries](https://github.com/greenfox-academy/nezihcihan/blob/master/week08/day-2/todo-database/build.gradle)
-- [find documentation and usage examples](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/main/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/controllers/NotificationController.java)
+- [find documentation and usage examples - logger](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/main/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/controllers/NotificationController.java)
 eg. lombok, jopt-simple, open csv, retrofit.
 
 ## Spring
@@ -62,10 +67,11 @@ eg. lombok, jopt-simple, open csv, retrofit.
 - find documentation and usage examples
 - understanding Spring as web backend
 - able to create examples for competencies of web backend
-- using Thymeleaf as templating system
-- able to use Spring's special Dependency Injection system
-- usage of beans and autowiring
-- able to alter basic configurations
+- using [Thymeleaf](https://github.com/greenfox-academy/nezihcihan/blob/master/week08/day-2/todo-database/src/main/resources/templates/editassignee.html) as [templating system](https://github.com/greenfox-academy/nezihcihan/blob/master/week08/day-2/todo-database/src/main/java/com/greenfox/nezih/tododatabase/controller/AssigneeController.java)
+- [able to use Spring's special Dependency Injection system](https://github.com/greenfox-academy/nezihcihan/blob/master/week08/day-2/todo-database/src/main/java/com/greenfox/nezih/tododatabase/controller/AssigneeController.java)
+- usage of beans and autowiring 
+- [able to alter basic configurations](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/main/resources/application.properties.example) 
+- understanding the flow of http
 
 ## Data persistance
 
