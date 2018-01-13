@@ -32,10 +32,9 @@ The student, on their own, is able to:
  -  [Handle errors and exceptions](https://github.com/greenfox-academy/nezihcihan/blob/master/week03/day-2/src/DivideByZero.java)
  -  Determine the output of expressions
  -  Explain their own code
- -  [Write](https://github.com/greenfox-academy/nezihcihan/blob/master/week04/day-3/src/Anagram.java) unit [tests](https://github.com/greenfox-academy/nezihcihan/blob/master/week04/day-3/tests/AnagramTest.java) for functions and methods
+ -  Write unit [tests](https://github.com/greenfox-academy/nezihcihan/blob/master/week04/day-3/tests/FibonacciTest.java) for [functions](https://github.com/greenfox-academy/nezihcihan/blob/master/week04/day-3/src/Fibonacci.java) and methods
  
  # Exam Competencies
-
 ## Interfaces and abstract classes
 
 - usage of [interfaces](https://github.com/greenfox-academy/nezihcihan/tree/master/week06/day-2/src/charsequence) and [abstract](https://github.com/greenfox-academy/nezihcihan/tree/master/week06/day-2/src/main/java/music) classes
@@ -43,7 +42,7 @@ The student, on their own, is able to:
 - [understand when to use interface and when to use super class](https://stackoverflow.com/questions/4090834/when-do-i-use-super)
 
 ## Queries
-- usage of language integrated quaries e.g. LINQ/StreamApi
+- usage of language integrated [quaries](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/main/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/repository/AuthModelRepository.java) e.g. LINQ/StreamApi
 - understanding the syntax
 - able to write simple custom quaries
 
@@ -60,7 +59,7 @@ The student, on their own, is able to:
 - [find documentation and usage examples - logger](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/main/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/controllers/NotificationController.java)
 eg. lombok, jopt-simple, open csv, retrofit.
 
-## Spring
+## Backend Framework
 
 - creating a Spring Boot Application - [To Do](https://github.com/greenfox-academy/nezihcihan/tree/master/week08/day-2/todo-database)
 - understanding the used Components
@@ -101,13 +100,71 @@ eg. lombok, jopt-simple, open csv, retrofit.
 
 ### REST Web backend
 
-- understand what is an API and can use it
+- understand what is an [API and can use it](https://github.com/greenfox-academy/nezihcihan-p2p)
 - use JSON objects
 - understand the concept of Jackson
 - able to use Postman
 
-## Endpoint tests
+## [Endpoint](https://github.com/greenfox-academy/nezihcihan/blob/master/week09/day-3/guardians/src/main/java/com/greenfox/nezih/guardians/controller/GuardianController.java) [tests](https://github.com/greenfox-academy/nezihcihan/blob/master/week09/day-3/guardians/src/test/java/com/greenfox/nezih/guardians/GuardiansApplicationTests.java)
 
 - able to make difference between unit test and integration test
 - create spring endpoint test
   - with the help of MockMVC
+  
+   
+# Final exam requirements
+
+
+## Skills
+
+### Common
+
+The student, on their own, is able to:
+ -  Use git:
+     -  Resolving a simple merge conflict
+     -  Creating a pull request
+ -  Understand API documentation
+ -  Understand token based authorization
+ -  Refactor code:
+     -  Create meaningful names for methods, classes and variables
+     -  Split bigger functions to smaller ones
+     -  Separate functionalities to different files
+     -  Point out code smells
+ -  Understand base concept of hosting
+ -  Deployment and continuous integration
+ -  Using design patterns
+ -  Integration testing
+ -  Differentiate between backend and frontend (client) functionality
+
+
+
+### Backend
+
+ -  Use async structures:
+     -  Writing functions that are taking and calling callbacks
+     -  Determining the calling order in nested callbacks
+ -  Authentication:
+     -  Handle authentication
+     -  Handle token based authorization
+ -  Database
+     - Using complex data structures
+     - Understanding and using table connections
+     - Understanding migration 
+
+### Fullstack
+
+ -  Use async structures:
+     -  Writing functions that are taking and calling callbacks
+     -  Determining the calling order in nested callbacks
+ -  Understanding and using rich web application framework:
+     -  Components, configuration, dependencies, extensions
+     -  Handle Authentication
+
+### Mobile
+
+ -  Use async structures:
+     -  Writing functions that are taking and calling callbacks [LINE 144:](https://github.com/greenfox-academy/huli-kalendaryo-android/blob/dev/app/src/main/java/com/greenfox/kalendaryo/MainActivity.java)
+ -  Understanding and using mobile framework:
+     -  Components, configuration, dependencies, extensions
+ -  Designing multiple screens [LINE 132:](https://github.com/greenfox-academy/huli-kalendaryo-android/blob/dev/app/src/main/java/com/greenfox/kalendaryo/LoginActivity.java)
+ -  Handling authorized communication with backend [LINE 121:](https://github.com/greenfox-academy/huli-kalendaryo-android/blob/dev/app/src/main/java/com/greenfox/kalendaryo/LoginActivity.java)
