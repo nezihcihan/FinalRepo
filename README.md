@@ -56,7 +56,7 @@ The student, on their own, is able to:
 ## 3rd party libraries
 
 - [able to add and use libraries](https://github.com/greenfox-academy/nezihcihan/blob/master/week08/day-2/todo-database/build.gradle)
-- [find documentation and usage examples - logger](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/main/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/controllers/NotificationController.java)
+- [find documentation and usage examples - LOG](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/main/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/controllers/NotificationController.java)
 eg. lombok, jopt-simple, open csv, retrofit.
 
 ## Backend Framework
@@ -113,10 +113,7 @@ eg. lombok, jopt-simple, open csv, retrofit.
   
    
 # Final exam requirements
-
-
 ## Skills
-
 ### Common
 
 The student, on their own, is able to:
@@ -165,6 +162,6 @@ The student, on their own, is able to:
  -  Use async structures:
      -  Writing functions that are taking and calling callbacks [LINE 144:](https://github.com/greenfox-academy/huli-kalendaryo-android/blob/dev/app/src/main/java/com/greenfox/kalendaryo/MainActivity.java)
  -  Understanding and using mobile framework:
-     -  Components, configuration, dependencies, extensions
+     -  Components, configuration, dependencies, [extensions](https://github.com/greenfox-academy/huli-kalendaryo-android/blob/dev/build.gradle)
  -  Designing multiple screens [LINE 132:](https://github.com/greenfox-academy/huli-kalendaryo-android/blob/dev/app/src/main/java/com/greenfox/kalendaryo/LoginActivity.java)
  -  Handling authorized communication with backend [LINE 121:](https://github.com/greenfox-academy/huli-kalendaryo-android/blob/dev/app/src/main/java/com/greenfox/kalendaryo/LoginActivity.java)
