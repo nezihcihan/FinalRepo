@@ -98,7 +98,7 @@ eg. lombok, jopt-simple, open csv, retrofit.
 - body
 - templates
 
-### REST Web [backend - array handler]()
+### REST Web backend
 
 - understand what is an [API and can use it](https://github.com/greenfox-academy/nezihcihan-p2p)
 - use JSON objects
