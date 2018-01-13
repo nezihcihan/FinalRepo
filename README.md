@@ -23,12 +23,12 @@ The student, on their own, is able to:
      -  [Finding elements or index](https://github.com/greenfox-academy/nezihcihan/blob/master/week02/day-3/src/ElementFinder.java)
      -  [Generating lists](https://github.com/greenfox-academy/nezihcihan/blob/master/week02/day-3/src/IsInList.java)
      -  [Checking mutiple values and counting](https://github.com/greenfox-academy/nezihcihan/blob/master/week02/day-3/src/Calculator.java)
-     -  [Maping values](https://github.com/greenfox-academy/nezihcihan/blob/master/week02/day-3/src/HeWillNever.java)
- -  Use object orientation:
-     -  [Create and inherit classes including fields and methods on a given specification](https://github.com/greenfox-academy/nezihcihan/tree/master/week04/day-2/src/gardenapp)
+     -  [Maping values](https://github.com/greenfox-academy/nezihcihan/blob/master/week02/day-3/src/StudentCounter.java)
+ -  [Use object orientation:](https://github.com/greenfox-academy/nezihcihan/tree/master/week04/day-2/src/gardenapp)
+     -  Create and inherit classes including fields and methods on a given specification
      -  Understanding the difference between classes and objects
      -  Instantiating and using objects
-     -  Understanding ["this"](https://www.guru99.com/java-this-keyword.html) keyword
+     -  [Understanding "this"keyword](https://github.com/greenfox-academy/nezihcihan/blob/master/week04/day-1/src/PostIt.java) 
  -  [Handle errors and exceptions](https://github.com/greenfox-academy/nezihcihan/blob/master/week03/day-2/src/DivideByZero.java)
  -  Determine the output of expressions
  -  Explain their own code
