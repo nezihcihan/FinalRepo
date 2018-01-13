@@ -76,10 +76,10 @@ eg. lombok, jopt-simple, open csv, retrofit.
 
 - understanding and usage of basic SQL commands
   - `select`, `insert`, `update`, `delete`
-- connecting database to Java application
-  - JDBC configuration
+- connecting database to Java application(backend application)
+  - JDBC [configuration](https://github.com/greenfox-academy/nezihcihan/blob/master/week08/day-2/todo-database/src/main/resources/application.properties)
 - understanding Object Relational Mapping
-  - with using library: JPA
+  - [with using library: JPA](https://github.com/greenfox-academy/nezihcihan/blob/master/week08/day-2/todo-database/build.gradle)
 - connection between:
   - [tables and classes](https://github.com/greenfox-academy/nezihcihan/blob/master/week08/day-2/todo-database/src/main/java/com/greenfox/nezih/tododatabase/module/Todo.java)
   - records and objects
@@ -98,12 +98,12 @@ eg. lombok, jopt-simple, open csv, retrofit.
 - body
 - templates
 
-### REST Web backend
+### REST Web [backend - array handler]()
 
 - understand what is an [API and can use it](https://github.com/greenfox-academy/nezihcihan-p2p)
 - use JSON objects
 - understand the concept of Jackson
-- able to use Postman
+- able to use [Postman](https://github.com/greenfox-academy/nezihcihan/blob/master/week09/day-2/rest/src/main/java/com/greenfox/nezih/rest/controller/ControllerTwo.java)
 
 ## [Endpoint](https://github.com/greenfox-academy/nezihcihan/blob/master/week09/day-3/guardians/src/main/java/com/greenfox/nezih/guardians/controller/GuardianController.java) [tests](https://github.com/greenfox-academy/nezihcihan/blob/master/week09/day-3/guardians/src/test/java/com/greenfox/nezih/guardians/GuardiansApplicationTests.java)
 
