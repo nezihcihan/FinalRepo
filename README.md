@@ -1,14 +1,6 @@
 # FinalRepo
-# Foundation requirements
-
-## Accomplishments
-
- -  Multiple daily commits on the latest week
-
-## Skills
-
+## Foundation requirements
 The student, on their own, is able to:
-
  -  Use the command line:
      -  Traversing directories
      -  Moving, copying, creating, deleting files
@@ -37,9 +29,9 @@ The student, on their own, is able to:
  # Exam Competencies
 ## Interfaces and abstract classes
 
-- usage of [interfaces](https://github.com/greenfox-academy/nezihcihan/tree/master/week06/day-2/src/charsequence) and [abstract](https://github.com/greenfox-academy/nezihcihan/tree/master/week06/day-2/src/main/java/music) classes
+- usage of [interfaces](https://github.com/greenfox-academy/nezihcihan/tree/master/week06/day-2/src/charsequence) and [abstract](https://github.com/greenfox-academy/nezihcihan/tree/master/week06/day-2/src/zoo) classes
 - understanding the difference between interfaces and abstract classes
-- [understand when to use interface and when to use super class](https://stackoverflow.com/questions/4090834/when-do-i-use-super)
+- understand when to use interface and when to use super class
 
 ## Queries
 - usage of language integrated [quaries](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/main/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/repository/AuthModelRepository.java) e.g. LINQ/[StreamApi](https://github.com/nezihcihan/practice/blob/master/src/Exercise4.java)
@@ -49,7 +41,7 @@ The student, on their own, is able to:
 ## Build tool - Gradle
 
 - use gradle tasks from terminal (gradlew)
-- understanding build.gradle file
+- [understanding build.gradle file](https://github.com/greenfox-academy/nezihcihan/blob/master/week08/day-2/todo-database/build.gradle)
 - dependency definition
 - able to add 3rd party library dependencies
 
@@ -70,7 +62,7 @@ eg. lombok, jopt-simple, open csv, retrofit.
 - [able to use Spring's special Dependency Injection system](https://github.com/greenfox-academy/nezihcihan/blob/master/week08/day-2/todo-database/src/main/java/com/greenfox/nezih/tododatabase/controller/AssigneeController.java)
 - usage of beans and autowiring 
 - [able to alter basic configurations](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/main/resources/application.properties.example) 
-- understanding the flow of http
+- understanding the flow of [http](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/main/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/controllers/NotificationController.java)
 
 ## Data persistance
 
@@ -85,7 +77,7 @@ eg. lombok, jopt-simple, open csv, retrofit.
   - records and objects
   - columns and fields
 
-## Web backend
+## Web [backend](https://github.com/greenfox-academy/nezihcihan/tree/master/week08/day-5/reddit/src/main/java/com/greenfox/nezih/reddit)
 
 - domain
 - parts of the URL
@@ -111,9 +103,7 @@ eg. lombok, jopt-simple, open csv, retrofit.
 - create spring endpoint test
   - with the help of MockMVC
   
-   
 # Final exam requirements
-## Skills
 ### Common
 
 The student, on their own, is able to:
@@ -160,7 +150,7 @@ The student, on their own, is able to:
 ### Mobile
 
  -  Use async structures:
-     -  Writing functions that are taking and calling callbacks [LINE 144:](https://github.com/greenfox-academy/huli-kalendaryo-android/blob/dev/app/src/main/java/com/greenfox/kalendaryo/MainActivity.java)
+     -  Writing functions that are taking and calling callbacks [LINE 91:](https://github.com/greenfox-academy/huli-kalendaryo-android/blob/dev/app/src/main/java/com/greenfox/kalendaryo/MainActivity.java)
  -  Understanding and using mobile framework:
      -  Components, configuration, dependencies, [extensions](https://github.com/greenfox-academy/huli-kalendaryo-android/blob/dev/build.gradle)
  -  Designing multiple screens [LINE 132:](https://github.com/greenfox-academy/huli-kalendaryo-android/blob/dev/app/src/main/java/com/greenfox/kalendaryo/LoginActivity.java)
