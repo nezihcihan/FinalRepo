@@ -42,7 +42,7 @@ The student, on their own, is able to:
 - [understand when to use interface and when to use super class](https://stackoverflow.com/questions/4090834/when-do-i-use-super)
 
 ## Queries
-- usage of language integrated [quaries](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/main/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/repository/AuthModelRepository.java) e.g. LINQ/StreamApi
+- usage of language integrated [quaries](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/main/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/repository/AuthModelRepository.java) e.g. LINQ/[StreamApi](https://github.com/nezihcihan/practice/blob/master/src/Exercise4.java)
 - understanding the syntax
 - able to write simple custom quaries
 
